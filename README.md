@@ -1,4 +1,4 @@
-# kwaripdf
+# Simple App With Vue JS 2
 
 > A Vue.js project
 
